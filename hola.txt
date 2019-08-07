@@ -1,5 +1,5 @@
 hola como estas
-<<<<<<< HEAD
+
 estos son mis cambios german, 
 sdfsdf
 3242
@@ -8,6 +8,6 @@ sdfsdf
 234
 234
 234
-=======
+
 cambios german
->>>>>>> 14fe61f1153dc1175777bdfae70ee47880004422
+
